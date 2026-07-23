@@ -1,5 +1,1 @@
-FSOC
-IETY
-!!
-lol
-s
+EGO
